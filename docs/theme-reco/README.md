@@ -1,6 +1,6 @@
 ---
-title: theme-reco
+title: 测试
 date: 2020-05-29
 ---
 
-This is theme-reco.
+这是一个测试。
