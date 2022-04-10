@@ -30,8 +30,7 @@ module.exports = {
       '/docs/theme-reco/': [
         '',
         'git_note',
-        'vue',
-        'README'
+        'vue'
       ]
     },
     type: 'blog',
